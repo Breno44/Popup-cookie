@@ -1,5 +1,5 @@
 <h1 align="center">
-   Tela de Login
+   Popup cookies
 </h1>
 
 <br>
@@ -17,8 +17,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/Breno44/Animated-Login.git
-$ cd Animated-Login
+$ git clone https://github.com/Breno44//Popup-cookie.git
+$ cd Popup-cookie
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -35,7 +35,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 💻 Projeto
 
-Tela de login feita com styled components 
+Popup para pedir autorização de cookies feita com styled components 
 
 ## 📝 License
 
